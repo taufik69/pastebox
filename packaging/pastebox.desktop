@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=PasteBox
+Comment=Clipboard history (Super+.)
+Exec=pastebox
+Icon=pastebox
+Terminal=false
+Categories=Utility;
+Keywords=clipboard;copy;paste;history;
+StartupNotify=false

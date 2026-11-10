@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=PasteBox Clipboard Daemon
+Comment=Records clipboard history in the background
+Exec=pastebox --daemon
+Icon=pastebox
+Terminal=false
+NoDisplay=true
+X-GNOME-Autostart-enabled=true
