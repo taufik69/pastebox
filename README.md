@@ -14,6 +14,8 @@ Press **Super (Win) + .** to see a list of all the text and images you've copied
 
 ## Installation
 
+> **Installing on your own computer?** Follow the step-by-step **[Installation Guide](INSTALL.md)**.
+
 Open a terminal (`Ctrl+Alt+T`), go to the project folder and run:
 
 ```bash
